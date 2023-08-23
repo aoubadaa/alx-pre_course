@@ -1,2 +1,1 @@
-this is readme file 
-this is my edit
+How to be up to date in git
